@@ -1,0 +1,338 @@
+PlayerID,Status,TeamID,Team,Jersey,PositionCategory,Position,FirstName,LastName,BatHand,ThrowHand,Height,Weight,BirthDate,BirthCity,BirthState,BirthCountry,HighSchool,College,ProDebut,Experience,FullName,playerID,nameFull
+10000031,Active,29,NYY,48.0,IF,1B,Paul,Goldschmidt,R,R,75,225,1987-09-10,Wilmington,DE,USA,,Texas State,2011-08-01,14,Paul Goldschmidt,goldspa01,Paul Goldschmidt
+10000072,Non-Roster Invitee,3,TOR,,IF,C,Christian,Bethancourt,R,R,75,205,1991-09-02,Panama City,,Panama,,None,2013-09-29,8,Christian Bethancourt,bethach01,Christian Bethancourt
+10000077,Active,1,LAD,5.0,IF,1B,Freddie,Freeman,L,R,77,220,1989-09-12,Villa Park,CA,USA,El Modena (CA),None,2010-09-01,15,Freddie Freeman,freemfr01,Freddie Freeman
+10000129,Active,33,SD,13.0,IF,3B,Manny,Machado,R,R,75,218,1992-07-06,Miami,FL,USA,Brito Miami Private School (FL),None,2012-08-09,13,Manny Machado,machama01,Manny Machado
+10000164,Active,20,MIN,8.0,IF,C,Christian,Vázquez,R,R,69,205,1990-08-21,Bayamon,,Puerto Rico,Puerto Rico Baseball Academy,None,2014-07-09,10,Christian Vázquez,,
+10000165,Active,33,SD,2.0,IF,2B,Xander,Bogaerts,R,R,74,218,1992-10-01,Oranjestad,,Aruba,Colegio Arubano (Aruba),None,2013-08-20,12,Xander Bogaerts,bogaexa01,Xander Bogaerts
+10000176,Active,1,LAD,50.0,IF,SS,Mookie,Betts,R,R,69,180,1992-10-07,Nashville,TN,USA,John Overton (TN),None,2014-06-29,11,Mookie Betts,bettsmo01,Mookie Betts
+10000225,Active,21,LAA,,DH,DH,Jorge,Soler,R,R,76,235,1992-02-25,Havana,,Cuba,,None,2014-08-27,11,Jorge Soler,solerjo01,Jorge Soler
+10000301,Non-Roster Invitee,28,TEX,,IF,C,Tucker,Barnhart,L,R,71,192,1991-01-07,Indianapolis,IN,USA,Brownsburg (IN),None,2014-04-03,11,Tucker Barnhart,barnhtu01,Tucker Barnhart
+10000353,Active,10,CLE,,IF,1B,Carlos,Santana,S,R,71,210,1986-04-08,Santo Domingo,,Dominican Republic,,None,2010-06-11,15,Carlos Santana,santaca01,Carlos Santana
+10000393,Active,31,STL,28.0,IF,3B,Nolan,Arenado,R,R,74,215,1991-04-16,Newport Beach,CA,USA,El Toro (CA),None,2013-04-28,12,Nolan Arenado,arenano01,Nolan Arenado
+10000397,Active,29,NYY,26.0,IF,3B,DJ,LeMahieu,R,R,76,220,1988-07-13,Visalia,CA,USA,,Louisiana State,2011-05-30,14,DJ LeMahieu,lemahdj01,DJ LeMahieu
+10000439,Active,12,PHI,8.0,OF,RF,Nick,Castellanos,R,R,76,203,1992-03-04,Hialeah,FL,USA,Archbishop McCarthy (FL),None,2013-09-01,12,Nick Castellanos,casteni01,Nick Castellanos
+10000484,Non-Roster Invitee,15,SF,,IF,C,Max,Stassi,R,R,70,210,1991-03-15,Woodland,CA,USA,Yuba City (CA),None,2013-08-20,10,Max Stassi,stassma01,Max Stassi
+10000485,Active,30,HOU,27.0,IF,2B,Jose,Altuve,R,R,66,167,1990-05-06,Maracay,,Venezuela,,None,2011-07-20,14,Jose Altuve,altuvjo01,Jose Altuve
+10000490,Active,30,HOU,28.0,IF,1B,Jon,Singleton,L,L,72,256,1991-09-18,Harbor City,CA,USA,Robert A. Millikan (CA),None,2014-06-03,4,Jon Singleton,singljo02,Jon Singleton
+10000499,Active,3,TOR,4.0,OF,RF,George,Springer,R,R,75,220,1989-09-19,New Britain,CT,USA,,Connecticut,2014-04-16,11,George Springer,springe01,George Springer
+10000525,Active,5,KC,13.0,IF,C,Salvador,Perez,R,R,75,255,1990-05-10,Valencia,,Venezuela,,None,2011-08-10,13,Salvador Perez,perezsa02,Salvador Perez
+10000600,Active,21,LAA,27.0,OF,CF,Mike,Trout,R,R,74,235,1991-08-07,Vineland,NJ,USA,Millville (NJ),None,2011-07-08,14,Mike Trout,troutmi01,Mike Trout
+10000646,Active,28,TEX,4.0,DH,DH,Joc,Pederson,L,L,73,220,1992-04-21,Palo Alto,CA,USA,Palo Alto (CA),None,2014-09-01,11,Joc Pederson,pederjo01,Joc Pederson
+10000685,Active,1,LAD,72.0,IF,SS,Miguel,Rojas,R,R,72,188,1989-02-24,Los Teques,,Venezuela,,None,2014-06-06,11,Miguel Rojas,rojasmi02,Miguel Rojas
+10000686,Active,13,SEA,39.0,IF,3B,Donovan,Solano,R,R,68,210,1987-12-17,Barranquilla,,Colombia,,None,2012-05-21,11,Donovan Solano,solando01,Donovan Solano
+10000689,Active,26,ATL,20.0,DH,DH,Marcell,Ozuna,R,R,73,225,1990-11-12,Santo Domingo,,Dominican Republic,,None,2013-04-30,12,Marcell Ozuna,ozunama01,Marcell Ozuna
+10000690,Active,29,NYY,27.0,DH,DH,Giancarlo,Stanton,R,R,78,245,1989-11-08,Panorama City,CA,USA,Notre Dame (CA),None,2010-06-08,15,Giancarlo Stanton,stantmi03,Giancarlo Stanton
+10000691,Active,32,MIL,22.0,OF,LF,Christian,Yelich,L,R,75,206,1991-12-05,Thousand Oaks,CA,USA,Westlake (CA),None,2013-07-23,12,Christian Yelich,yelicch01,Christian Yelich
+10000779,Active,12,PHI,17.0,OF,RF,Max,Kepler,L,L,76,225,1993-02-10,Berlin,,Germany,John F. Kennedy School (Germany),None,2015-09-27,10,Max Kepler,keplema01,Max Kepler
+10000809,Active,21,LAA,25.0,IF,C,Travis,d'Arnaud,R,R,74,210,1989-02-10,Long Beach,CA,USA,Lakewood (CA),None,2013-08-17,12,Travis d'Arnaud,darnatr01,Travis d'Arnaud
+10000813,Active,15,SF,41.0,IF,1B,Wilmer,Flores,R,R,74,213,1991-08-06,Valencia,,Venezuela,Inra (Venezuela),None,2013-08-06,12,Wilmer Flores,florewi01,Wilmer Flores
+10000908,Active,28,TEX,2.0,IF,2B,Marcus,Semien,R,R,72,195,1990-09-17,San Francisco,CA,USA,,California,2013-09-04,12,Marcus Semien,semiema01,Marcus Semien
+10001009,Active,18,NYM,6.0,OF,RF,Starling,Marte,R,R,73,195,1988-10-09,Santo Domingo,,Dominican Republic,,None,2012-07-26,13,Starling Marte,martest01,Starling Marte
+10001010,Active,4,PIT,22.0,DH,DH,Andrew,McCutchen,R,R,70,190,1986-10-10,Fort Meade,FL,USA,Fort Meade (FL),None,2009-06-04,16,Andrew McCutchen,mccutan01,Andrew McCutchen
+10001087,Active,14,ARI,4.0,IF,2B,Ketel,Marte,S,R,73,210,1993-10-12,Nizao,,Dominican Republic,,None,2015-07-31,10,Ketel Marte,marteke01,Ketel Marte
+10001091,Active,1,LAD,3.0,OF,LF,Chris,Taylor,R,R,73,196,1990-08-29,Virginia Beach,VA,USA,,Virginia,2014-07-24,11,Chris Taylor,tayloch03,Chris Taylor
+10001271,Active,26,ATL,7.0,OF,LF,Jurickson,Profar,S,R,72,184,1993-02-20,Willemstad,,Curacao,,None,2012-09-02,11,Jurickson Profar,profaju01,Jurickson Profar
+10001361,Active,21,LAA,6.0,IF,3B,Anthony,Rendon,R,R,73,200,1990-06-06,Houston,TX,USA,,Rice,2013-04-21,12,Anthony Rendon,rendoan01,Anthony Rendon
+10001365,Active,12,PHI,3.0,IF,1B,Bryce,Harper,L,R,75,210,1992-10-16,Las Vegas,NV,USA,,CC of Southern Nevada,2012-04-28,13,Bryce Harper,harpebr03,Bryce Harper
+10001865,Active,28,TEX,11.0,IF,C,Kyle,Higashioka,R,R,73,202,1990-04-20,Huntington Beach,CA,USA,Edison (CA),None,2017-04-10,8,Kyle Higashioka,higasky01,Kyle Higashioka
+10001896,Active,25,BOS,10.0,IF,SS,Trevor,Story,R,R,74,209,1992-11-15,Irving,TX,USA,Irving (TX),None,2016-04-04,9,Trevor Story,storytr01,Trevor Story
+10001907,Active,18,NYM,9.0,OF,LF,Brandon,Nimmo,L,R,75,206,1993-03-27,Cheyenne,WY,USA,Cheyenne East (WY),None,2016-06-26,9,Brandon Nimmo,nimmobr01,Brandon Nimmo
+10001910,Active,10,CLE,27.0,IF,C,Austin,Hedges,R,R,73,220,1992-08-18,San Juan Capistrano,CA,USA,Junipero Serra (CA),None,2015-05-04,10,Austin Hedges,hedgeau01,Austin Hedges
+10001911,Active,18,NYM,12.0,IF,SS,Francisco,Lindor,S,R,71,190,1993-11-14,Caguas,,Puerto Rico,Montverde Academy (FL),None,2015-06-14,10,Francisco Lindor,lindofr01,Francisco Lindor
+10001918,Active,20,MIN,4.0,IF,SS,Carlos,Correa,R,R,76,220,1994-09-22,Ponce,,Puerto Rico,Puerto Rico Baseball Academy,None,2015-06-08,10,Carlos Correa,correca01,Carlos Correa
+10001934,Active,20,MIN,25.0,OF,CF,Byron,Buxton,R,R,74,190,1993-12-18,Baxley,GA,USA,Appling County (GA),None,2015-06-14,10,Byron Buxton,buxtoby01,Byron Buxton
+10001939,Active,15,SF,19.0,IF,C,Tom,Murphy,R,R,73,206,1991-04-03,West Monroe,NY,USA,,SUNY Buffalo,2015-09-12,9,Tom Murphy,murphto04,Tom Murphy
+10001943,Non-Roster Invitee,23,COL,,IF,C,Austin,Nola,R,R,72,197,1989-12-28,Baton Rouge,LA,USA,,Louisiana State,2019-06-16,5,Austin Nola,nolaau01,Austin Nola
+10001947,Active,18,NYM,33.0,OF,LF,Jesse,Winker,L,L,74,206,1993-08-17,Buffalo,NY,USA,Olympia (FL),None,2017-04-14,8,Jesse Winker,winkeje01,Jesse Winker
+10001955,Active,1,LAD,13.0,IF,3B,Max,Muncy,L,R,72,215,1990-08-25,Midland,TX,USA,,Baylor,2015-04-25,9,Max Muncy,muncyma01,Max Muncy
+10001958,Active,9,CHC,15.0,IF,C,Carson,Kelly,R,R,74,212,1994-07-14,Chicago,IL,USA,Westview (OR),None,2016-09-05,9,Carson Kelly,kellyca02,Carson Kelly
+10001961,Active,26,ATL,28.0,IF,1B,Matt,Olson,L,R,77,225,1994-03-29,Atlanta,GA,USA,Parkview (GA),None,2016-09-12,9,Matt Olson,olsonma02,Matt Olson
+10001979,Active,28,TEX,5.0,IF,SS,Corey,Seager,L,R,76,215,1994-04-27,Charlotte,NC,USA,Northwest Cabarrus (NC),None,2015-09-03,10,Corey Seager,seageco01,Corey Seager
+10002001,Non-Roster Invitee,18,NYM,,OF,CF,Rafael,Ortega,L,R,71,200,1991-05-15,El Tigre,,Venezuela,,None,2012-09-30,8,Rafael Ortega,ortegra01,Rafael Ortega
+10002074,Active,5,KC,16.0,OF,RF,Hunter,Renfroe,R,R,73,230,1992-01-28,Crystal Springs,MS,USA,,Mississippi State,2016-09-21,9,Hunter Renfroe,renfrhu01,Hunter Renfroe
+10002076,Active,23,COL,23.0,OF,RF,Kris,Bryant,R,R,77,230,1992-01-04,Las Vegas,NV,USA,,San Diego,2015-04-17,10,Kris Bryant,bryankr01,Kris Bryant
+10002087,Active,29,NYY,99.0,OF,CF,Aaron,Judge,R,R,79,282,1992-04-26,Linden,CA,USA,,Fresno State,2016-08-13,9,Aaron Judge,judgeaa01,Aaron Judge
+10002089,Active,13,SEA,18.0,DH,DH,Mitch,Garver,R,R,73,220,1991-01-15,Albuquerque,NM,USA,,New Mexico,2017-08-19,8,Mitch Garver,garvemi01,Mitch Garver
+10002093,Active,12,PHI,12.0,DH,DH,Kyle,Schwarber,L,R,72,229,1993-03-05,Middletown,OH,USA,,Indiana,2015-06-16,10,Kyle Schwarber,schwaky01,Kyle Schwarber
+10002094,Active,12,PHI,7.0,IF,SS,Trea,Turner,R,R,74,185,1993-06-30,Boynton Beach,FL,USA,,North Carolina State,2015-08-21,10,Trea Turner,turnetr01,Trea Turner
+10002101,Non-Roster Invitee,14,ARI,,IF,C,Aramis,Garcia,R,R,74,228,1993-01-12,Hialeah,FL,USA,,Florida International,2018-08-31,5,Aramis Garcia,garciar01,Aramis Garcia
+10002148,Active,20,MIN,50.0,IF,SS,Willi,Castro,S,R,73,206,1997-04-24,Rio Piedras,,Puerto Rico,,None,2019-08-24,6,Willi Castro,castrwi01,Willi Castro
+10003122,Active,29,NYY,35.0,OF,CF,Cody,Bellinger,L,L,76,203,1995-07-13,Scottsdale,AZ,USA,Hamilton (AZ),None,2017-04-25,8,Cody Bellinger,bellico01,Cody Bellinger
+10003149,Active,19,BAL,,OF,LF,Tyler,O'Neill,R,R,71,200,1995-06-22,Burnaby,BC,Canada,Garibaldi Secondary (Canada),None,2018-04-19,7,Tyler O'Neill,oneilty01,Tyler O'Neill
+10003163,Active,25,BOS,30.0,OF,LF,Rob,Refsnyder,R,R,72,215,1991-03-26,Seoul,,South Korea,,Arizona,2015-07-11,9,Rob Refsnyder,refsnro01,Rob Refsnyder
+10003177,Active,15,SF,5.0,OF,RF,Mike,Yastrzemski,L,L,70,178,1990-08-23,Andover,MA,USA,,Vanderbilt,2019-05-25,6,Mike Yastrzemski,yastrmi01,Mike Yastrzemski
+10003192,Active,1,LAD,15.0,IF,C,Austin,Barnes,R,R,70,187,1989-12-28,Riverside,CA,USA,,Arizona State,2015-05-24,10,Austin Barnes,barneau01,Austin Barnes
+10003219,Active,24,ATH,13.0,IF,3B,Gio,Urshela,R,R,72,215,1991-10-11,Cartagena,,Colombia,,None,2015-06-09,9,Gio Urshela,urshegi01,Gio Urshela
+10003268,Active,30,HOU,13.0,IF,1B,Christian,Walker,R,R,72,208,1991-03-28,Norristown,PA,USA,,South Carolina,2014-09-17,10,Christian Walker,walkech02,Christian Walker
+10003312,Non-Roster Invitee,32,MIL,,IF,C,Jorge,Alfaro,R,R,74,249,1993-06-11,Sincelejo,,Colombia,,None,2016-09-12,8,Jorge Alfaro,alfarjo01,Jorge Alfaro
+10003324,Active,3,TOR,55.0,IF,C,Tyler,Heineman,S,R,70,190,1991-06-19,Pacific Palisades,CA,USA,,UCLA,2019-09-04,5,Tyler Heineman,heinety01,Tyler Heineman
+10005235,Active,1,LAD,30.0,OF,LF,Michael,Conforto,L,R,73,215,1993-03-01,Seattle,WA,USA,,Oregon State,2015-07-24,9,Michael Conforto,confomi01,Michael Conforto
+10005299,Active,35,WSH,19.0,IF,1B,Josh,Bell,S,R,76,261,1992-08-14,Irving,TX,USA,Jesuit College Prep (TX),None,2016-07-08,9,Josh Bell,belljo01,Josh Bell
+10005299,Active,35,WSH,19.0,IF,1B,Josh,Bell,S,R,76,261,1992-08-14,Irving,TX,USA,Jesuit College Prep (TX),None,2016-07-08,9,Josh Bell,belljo02,Josh Bell
+10005307,Active,31,STL,40.0,IF,1B,Willson,Contreras,R,R,73,240,1992-05-13,Puerto Cabello,,Venezuela,,None,2016-06-17,9,Willson Contreras,contrwi01,Willson Contreras
+10005308,Active,2,CIN,3.0,IF,3B,Jeimer,Candelario,S,R,74,222,1993-11-24,New York,NY,USA,,None,2016-07-03,9,Jeimer Candelario,candeje01,Jeimer Candelario
+10005377,Active,26,ATL,11.0,IF,SS,Orlando,Arcia,R,R,72,187,1994-08-04,Anaco,,Venezuela,,None,2016-08-02,9,Orlando Arcia,arciaor01,Orlando Arcia
+10005405,Active,18,NYM,22.0,OF,CF,Jose,Siri,R,R,74,210,1995-07-22,Sabana Grande de Boya,,Dominican Republic,,None,2021-09-03,4,Jose Siri,sirijo01,Jose Siri
+10005406,Active,17,DET,25.0,IF,2B,Gleyber,Torres,R,R,73,205,1996-12-13,Caracas,,Venezuela,,None,2018-04-22,7,Gleyber Torres,torregl01,Gleyber Torres
+10005433,Active,15,SF,1.0,IF,SS,Willy,Adames,R,R,73,219,1995-09-02,Santiago,,Dominican Republic,,None,2018-05-22,7,Willy Adames,adamewi01,Willy Adames
+10005445,Active,26,ATL,1.0,IF,2B,Ozzie,Albies,S,R,68,165,1997-01-07,Willemstad,,Curacao,,None,2017-08-01,8,Ozzie Albies,albieoz01,Ozzie Albies
+10005476,Active,24,ATH,22.0,OF,LF,Miguel,Andujar,R,R,72,211,1995-03-02,San Cristobal,,Dominican Republic,,None,2017-06-28,8,Miguel Andujar,andujmi01,Miguel Andujar
+10005493,Active,33,SD,4.0,IF,1B,Luis,Arraez,L,R,70,175,1997-04-09,San Felipe,,Venezuela,,None,2019-05-18,6,Luis Arraez,arraelu01,Luis Arraez
+10005519,Non-Roster Invitee,32,MIL,,IF,1B,Jake,Bauers,L,L,71,213,1995-10-06,Newport Beach,CA,USA,Marina (CA),None,2018-06-07,5,Jake Bauers,bauerja01,Jake Bauers
+10005530,Active,16,CHW,23.0,OF,LF,Andrew,Benintendi,L,L,69,180,1994-07-06,Cincinnati,OH,USA,,Arkansas,2016-08-02,9,Andrew Benintendi,beninan01,Andrew Benintendi
+10005534,Active,9,CHC,,IF,3B,Jon,Berti,R,R,70,190,1990-01-22,Troy,MI,USA,,Bowling Green State,2018-09-26,7,Jon Berti,bertijo01,Jon Berti
+10005542,Active,18,NYM,1.0,IF,2B,Jeff,McNeil,L,R,73,195,1992-04-08,Santa Barbara,CA,USA,,Long Beach State,2018-07-24,7,Jeff McNeil,mcneije01,Jeff McNeil
+10005630,Active,19,BAL,41.0,OF,LF,Daz,Cameron,R,R,72,185,1997-01-15,McDonough,GA,USA,Eagle's Landing Christian (GA),None,2020-09-09,4,Daz Cameron,camerda01,Daz Cameron
+10005633,Active,30,HOU,17.0,IF,C,Victor,Caratini,S,R,71,225,1993-08-17,Ponce,,Puerto Rico,,Miami Dade CC (FL),2017-06-28,8,Victor Caratini,caratvi01,Victor Caratini
+10005650,Non-Roster Invitee,5,KC,,IF,2B,Harold,Castro,L,R,70,195,1993-11-30,Caracas,,Venezuela,,None,2018-09-23,6,Harold Castro,castrha01,Harold Castro
+10005661,Active,15,SF,26.0,IF,3B,Matt,Chapman,R,R,72,215,1993-04-28,Victorville,CA,USA,,Cal State Fullerton,2017-06-15,8,Matt Chapman,chapmma01,Matt Chapman
+10005672,Active,29,NYY,12.0,OF,CF,Trent,Grisham,L,L,71,224,1996-11-01,Burleson,TX,USA,Richland (TX),None,2019-08-01,6,Trent Grisham,grishtr01,Trent Grisham
+10005751,Active,25,BOS,11.0,IF,3B,Rafael,Devers,L,R,72,235,1996-10-24,Sanchez,,Dominican Republic,,None,2017-07-25,8,Rafael Devers,deverra01,Rafael Devers
+10005867,Active,35,WSH,36.0,OF,RF,Stone,Garrett,R,R,73,228,1995-11-22,Sugar Land,TX,USA,George Ranch (TX),None,2022-08-17,3,Stone Garrett,garrest01,Stone Garrett
+10006044,Active,13,SEA,17.0,OF,RF,Mitch,Haniger,R,R,74,214,1990-12-23,Mountain View,CA,USA,,Cal Poly San Luis Obispo,2016-08-16,8,Mitch Haniger,hanigmi01,Mitch Haniger
+10006046,Active,9,CHC,8.0,OF,LF,Ian,Happ,S,R,72,205,1994-08-12,Pittsburgh,PA,USA,,Cincinnati,2017-05-13,8,Ian Happ,happia01,Ian Happ
+10006053,Active,4,PIT,13.0,IF,3B,Ke'Bryan,Hayes,R,R,71,195,1997-01-28,Tomball,TX,USA,Concordia Lutheran (TX),None,2020-09-01,5,Ke'Bryan Hayes,hayeske01,Ke'Bryan Hayes
+10006058,Active,28,TEX,28.0,IF,C,Jonah,Heim,S,R,76,220,1995-06-27,Buffalo,NY,USA,Amherst (NY),None,2020-08-25,5,Jonah Heim,heimjo01,Jonah Heim
+10006085,Non-Roster Invitee,26,ATL,,IF,1B,Garrett,Cooper,R,R,77,235,1990-12-25,Torrance,CA,USA,,Auburn,2017-07-14,8,Garrett Cooper,coopega03,Garrett Cooper
+10006108,Non-Roster Invitee,18,NYM,,IF,1B,Joey,Meneses,R,R,75,235,1992-05-06,Culiacan,Sinaloa,Mexico,,None,2022-08-02,3,Joey Meneses,menesjo01,Joey Meneses
+10006112,Active,22,MIA,58.0,OF,CF,Derek,Hill,R,R,73,206,1995-12-30,Des Moines,IA,USA,Elk Grove (CA),None,2020-09-04,4,Derek Hill,hillde01,Derek Hill
+10006124,Active,32,MIL,12.0,IF,1B,Rhys,Hoskins,R,R,76,240,1993-03-17,Sacramento,CA,USA,,Sacramento State,2017-08-10,7,Rhys Hoskins,hoskirh01,Rhys Hoskins
+10006140,Active,29,NYY,,IF,C,Alex,Jackson,R,R,74,238,1995-12-25,San Diego,CA,USA,Rancho Bernardo (CA),None,2019-04-07,5,Alex Jackson,jacksal02,Alex Jackson
+10006168,Non-Roster Invitee,17,DET,,OF,RF,Jahmai,Jones,R,R,71,210,1997-08-04,Roswell,GA,USA,Wesleyan (GA),None,2020-08-31,4,Jahmai Jones,jonesja08,Jahmai Jones
+10006208,Active,21,LAA,,IF,SS,Scott,Kingery,R,R,69,180,1994-04-29,Phoenix,AZ,USA,,Arizona,2018-03-30,4,Scott Kingery,kingesc01,Scott Kingery
+10006272,Active,11,TB,8.0,IF,2B,Brandon,Lowe,L,R,70,185,1994-07-06,Newport News,VA,USA,,Maryland,2018-08-05,7,Brandon Lowe,lowebr01,Brandon Lowe
+10006345,Active,23,COL,24.0,IF,3B,Ryan,McMahon,L,R,74,219,1994-12-14,Yorba Linda,CA,USA,Mater Dei (CA),None,2017-08-12,8,Ryan McMahon,mcmahry01,Ryan McMahon
+10006394,Active,19,BAL,3.0,IF,2B,Jorge,Mateo,R,R,73,200,1995-06-23,Santo Domingo Oeste,,Dominican Republic,,None,2020-08-13,5,Jorge Mateo,mateojo01,Jorge Mateo
+10006492,Active,19,BAL,6.0,IF,1B,Ryan,Mountcastle,R,R,76,220,1997-02-18,Winter Springs,FL,USA,Hagerty (FL),None,2020-08-21,5,Ryan Mountcastle,mountry01,Ryan Mountcastle
+10006506,Active,14,ARI,22.0,IF,1B,Josh,Naylor,L,L,71,250,1997-06-22,Mississauga,ON,Canada,St. Joan of Arc (Canada),None,2019-05-24,6,Josh Naylor,naylojo01,Josh Naylor
+10006512,Active,21,LAA,10.0,IF,SS,Kevin,Newman,R,R,73,195,1993-08-04,Poway,CA,USA,,Arizona,2018-08-16,7,Kevin Newman,newmake01,Kevin Newman
+10006521,Active,19,BAL,32.0,IF,1B,Ryan,O'Hearn,L,L,75,220,1993-07-26,Dunedin,FL,USA,,Sam Houston State,2018-07-31,7,Ryan O'Hearn,ohearry01,Ryan O'Hearn
+10006535,Non-Roster Invitee,14,ARI,,OF,CF,Cristian,Pache,R,R,74,215,1998-11-19,Santo Domingo Centro,,Dominican Republic,,None,2020-08-21,5,Cristian Pache,pachecr01,Cristian Pache
+10006602,Non-Roster Invitee,18,NYM,,IF,C,Jakson,Reetz,R,R,71,205,1996-01-03,Hickman,NE,USA,Norris (NE),None,2021-07-10,2,Jakson Reetz,reetzja01,Jakson Reetz
+10006622,Active,26,ATL,27.0,IF,3B,Austin,Riley,R,R,75,240,1997-04-02,Memphis,TN,USA,DeSoto Central (MS),None,2019-05-15,6,Austin Riley,rileyau01,Austin Riley
+10006634,Active,13,SEA,10.0,OF,CF,Victor,Robles,R,R,72,193,1997-05-19,Santo Domingo Este,,Dominican Republic,,None,2017-09-07,8,Victor Robles,roblevi01,Victor Robles
+10006682,Active,24,ATH,15.0,OF,LF,Seth,Brown,L,L,73,223,1992-07-13,Klamath Falls,OR,USA,,Lewis-Clark State (ID),2019-08-26,6,Seth Brown,brownse01,Seth Brown
+10006695,Active,35,WSH,13.0,IF,2B,Amed,Rosario,R,R,74,190,1995-11-20,Santo Domingo Centro,,Dominican Republic,,None,2017-08-01,8,Amed Rosario,rosaram01,Amed Rosario
+10006717,Active,3,TOR,25.0,OF,RF,Anthony,Santander,S,R,74,230,1994-10-19,Margarita,,Venezuela,,None,2017-08-18,8,Anthony Santander,santaan02,Anthony Santander
+10006763,Non-Roster Invitee,31,STL,65.0,IF,C,Chance,Sisco,L,R,75,210,1995-02-24,Corona,CA,USA,Santiago (CA),None,2017-09-02,5,Chance Sisco,siscoch01,Chance Sisco
+10006767,Active,16,CHW,13.0,OF,RF,Austin,Slater,R,R,73,204,1992-12-13,Jacksonville,FL,USA,,Stanford,2017-06-02,8,Austin Slater,slateau01,Austin Slater
+10006775,Non-Roster Invitee,29,NYY,,IF,1B,Dominic,Smith,L,L,72,224,1995-06-15,Los Angeles,CA,USA,Junipero Serra (CA),None,2017-08-11,8,Dominic Smith,smithdo02,Dominic Smith
+10006792,Active,12,PHI,33.0,IF,SS,Edmundo,Sosa,R,R,72,210,1996-03-06,Panama City,,Panama,,None,2018-09-23,6,Edmundo Sosa,sosaed01,Edmundo Sosa
+10006794,Active,18,NYM,22.0,OF,RF,Juan,Soto,L,L,74,224,1998-10-25,Santo Domingo,,Dominican Republic,,None,2018-05-15,8,Juan Soto,sotoju01,Juan Soto
+10006804,Active,2,CIN,37.0,IF,C,Tyler,Stephenson,R,R,76,225,1996-08-16,Atlanta,GA,USA,Kennesaw Mountain (GA),None,2020-07-27,5,Tyler Stephenson,stephty01,Tyler Stephenson
+10006826,Active,9,CHC,7.0,IF,SS,Dansby,Swanson,R,R,73,190,1994-02-11,Kennesaw,GA,USA,,Vanderbilt,2016-08-17,9,Dansby Swanson,swansda01,Dansby Swanson
+10006835,Active,16,CHW,39.0,OF,RF,Mike,Tauchman,L,L,73,220,1990-12-03,Palatine,IL,USA,,Bradley,2017-06-27,7,Mike Tauchman,tauchmi01,Mike Tauchman
+10006836,Active,28,TEX,3.0,OF,CF,Leody,Taveras,S,R,74,195,1998-09-08,Tenares,,Dominican Republic,,None,2020-07-24,5,Leody Taveras,taverle01,Leody Taveras
+10006837,Active,18,NYM,15.0,OF,RF,Tyrone,Taylor,R,R,73,218,1994-01-22,Torrance,CA,USA,Torrance (CA),None,2019-09-07,6,Tyrone Taylor,tayloty01,Tyrone Taylor
+10006863,Active,18,NYM,13.0,IF,C,Luis,Torrens,R,R,71,217,1996-05-02,Valencia,,Venezuela,,None,2017-04-03,7,Luis Torrens,torrelu01,Luis Torrens
+10006868,Active,9,CHC,30.0,OF,RF,Kyle,Tucker,L,R,76,212,1997-01-17,Tampa,FL,USA,Plant (FL),None,2018-07-07,7,Kyle Tucker,tuckeky01,Kyle Tucker
+10006886,Non-Roster Invitee,29,NYY,,IF,SS,Andrew,Velazquez,S,R,69,170,1994-07-14,Bronx,NY,USA,Fordham Prep (NY),None,2018-09-02,6,Andrew Velazquez,velazan01,Andrew Velazquez
+10006893,Active,33,SD,14.0,IF,3B,Tyler,Wade,L,R,73,188,1994-11-23,Murrieta,CA,USA,Murrieta Valley (CA),None,2017-06-27,8,Tyler Wade,wadety01,Tyler Wade
+10006902,Active,21,LAA,3.0,OF,LF,Taylor,Ward,R,R,73,200,1993-12-14,Dayton,OH,USA,,Fresno State,2018-08-14,7,Taylor Ward,wardta01,Taylor Ward
+10006931,Active,26,ATL,65.0,OF,LF,Luke,Williams,R,R,73,186,1996-08-09,Park Ridge,IL,USA,Dana Hills (CA),None,2021-06-08,4,Luke Williams,willilu01,Luke Williams
+10007006,Active,21,LAA,8.0,OF,CF,Mickey,Moniak,L,R,74,195,1998-05-13,Encinitas,CA,USA,La Costa Canyon (CA),None,2020-09-16,5,Mickey Moniak,moniami01,Mickey Moniak
+10007012,Active,2,CIN,30.0,OF,LF,Will,Benson,L,L,77,230,1998-06-16,Atlanta,GA,USA,Westminster (GA),None,2022-08-01,3,Will Benson,bensowi01,Will Benson
+10007013,Active,3,TOR,11.0,IF,SS,Bo,Bichette,R,R,72,190,1998-03-05,Orlando,FL,USA,Lakewood (FL),None,2019-07-29,6,Bo Bichette,bichebo01,Bo Bichette
+10007028,Active,2,CIN,27.0,OF,RF,Jake,Fraley,L,L,72,206,1995-05-25,Frederick,MD,USA,,Louisiana State,2019-08-21,6,Jake Fraley,fraleja01,Jake Fraley
+10007037,Active,23,COL,22.0,OF,LF,Nolan,Jones,L,R,76,195,1998-05-07,Langhorne,PA,USA,Holy Ghost Prep (PA),None,2022-07-08,3,Nolan Jones,jonesno01,Nolan Jones
+10007045,Active,11,TB,15.0,OF,RF,Josh,Lowe,L,R,76,205,1998-02-02,Marietta,GA,USA,Pope (GA),None,2021-09-08,4,Josh Lowe,lowejo01,Josh Lowe
+10007046,Active,2,CIN,2.0,IF,2B,Gavin,Lux,L,R,74,190,1997-11-23,Kenosha,WI,USA,Indian Trail (WI),None,2019-09-02,5,Gavin Lux,luxga01,Gavin Lux
+10007049,Active,12,PHI,16.0,OF,LF,Brandon,Marsh,L,R,76,215,1997-12-18,Buford,GA,USA,Buford (GA),None,2021-07-18,4,Brandon Marsh,marshbr02,Brandon Marsh
+10007050,Active,20,MIN,64.0,IF,3B,Jose,Miranda,R,R,74,210,1998-06-29,Manati,,Puerto Rico,Leadership Christian Academy (PR),None,2022-05-02,3,Jose Miranda,miranjo01,Jose Miranda
+10007060,Active,35,WSH,17.0,OF,RF,Alex,Call,R,R,71,189,1994-09-27,Burnsville,MN,USA,,Ball State,2022-07-11,3,Alex Call,callal01,Alex Call
+10007062,Non-Roster Invitee,16,CHW,,IF,1B,Bobby,Dalbec,R,R,76,225,1995-06-29,Seattle,WA,USA,,Arizona,2020-08-30,5,Bobby Dalbec,dalbebo01,Bobby Dalbec
+10007090,Active,26,ATL,12.0,IF,C,Sean,Murphy,R,R,75,228,1994-10-04,Peekskill,NY,USA,,Wright State,2019-05-19,6,Sean Murphy,murphse01,Sean Murphy
+10007098,Non-Roster Invitee,1,LAD,,IF,C,Chris,Okey,R,R,71,200,1994-12-29,Altamonte Springs,FL,USA,,Clemson,2022-06-10,2,Chris Okey,okeych01,Chris Okey
+10007111,Active,4,PIT,10.0,OF,LF,Bryan,Reynolds,S,R,74,205,1995-01-27,Baltimore,MD,USA,,Vanderbilt,2019-04-20,6,Bryan Reynolds,reynobr01,Bryan Reynolds
+10007115,Active,17,DET,34.0,IF,C,Jake,Rogers,R,R,73,201,1995-04-18,Canyon,TX,USA,,Tulane,2019-07-30,4,Jake Rogers,rogerja03,Jake Rogers
+10007117,Active,11,TB,30.0,IF,C,Ben,Rortvedt,L,R,69,191,1997-09-25,Verona,WI,USA,Verona Area (WI),None,2021-04-30,3,Ben Rortvedt,rortvbe01,Ben Rortvedt
+10007122,Non-Roster Invitee,17,DET,,IF,C,Brian,Serven,R,R,72,207,1995-05-05,Palm Desert,CA,USA,,Arizona State,2022-05-18,3,Brian Serven,servebr01,Brian Serven
+10007125,Active,1,LAD,16.0,IF,C,Will,Smith,R,R,70,195,1995-03-28,Louisville,KY,USA,,Louisville,2019-05-28,6,Will Smith,smithwi04,Will Smith
+10007125,Active,1,LAD,16.0,IF,C,Will,Smith,R,R,70,195,1995-03-28,Louisville,KY,USA,,Louisville,2019-05-28,6,Will Smith,smithwi05,Will Smith
+10007126,Non-Roster Invitee,4,PIT,,OF,LF,Nick,Solak,R,R,69,185,1995-01-11,Woodridge,IL,USA,,Louisville,2019-08-20,5,Nick Solak,solakni01,Nick Solak
+10007131,Active,16,CHW,23.0,IF,C,Matt,Thaiss,L,R,72,215,1995-05-06,Jackson,NJ,USA,,Virginia,2019-07-03,6,Matt Thaiss,thaisma01,Matt Thaiss
+10007135,Active,30,HOU,26.0,OF,LF,Taylor,Trammell,L,L,74,220,1997-09-13,Powder Springs,GA,USA,Mount Paran Christian (GA),None,2021-04-01,4,Taylor Trammell,trammta01,Taylor Trammell
+10007152,Active,30,HOU,44.0,OF,LF,Yordan,Alvarez,L,R,77,237,1997-06-27,Las Tunas,,Cuba,,None,2019-06-09,6,Yordan Alvarez,alvaryo01,Yordan Alvarez
+10007153,Active,23,COL,25.0,IF,C,Jacob,Stallings,R,R,77,225,1989-12-22,Lawrence,KS,USA,,North Carolina,2016-06-19,9,Jacob Stallings,stallja01,Jacob Stallings
+10007175,Active,10,CLE,13.0,IF,3B,Gabriel,Arias,R,R,73,217,2000-02-27,La Victoria,,Venezuela,,None,2022-04-20,3,Gabriel Arias,ariasga01,Gabriel Arias
+10007224,Active,13,SEA,56.0,OF,LF,Randy,Arozarena,R,R,71,185,1995-02-28,Havana,,Cuba,,None,2019-08-14,6,Randy Arozarena,arozara01,Randy Arozarena
+10007244,Non-Roster Invitee,5,KC,,IF,2B,Cavan,Biggio,L,R,74,200,1995-04-11,Houston,TX,USA,,Notre Dame,2019-05-24,6,Cavan Biggio,biggica01,Cavan Biggio
+10007252,Active,2,CIN,29.0,OF,CF,TJ,Friedl,L,L,70,180,1995-08-14,Sewickley,PA,USA,,Nevada-Reno,2021-09-18,4,TJ Friedl,friedtj01,TJ Friedl
+10007277,Active,23,COL,16.0,OF,LF,Sam,Hilliard,L,L,76,236,1994-02-21,Mansfield,TX,USA,,Wichita State,2019-08-27,6,Sam Hilliard,hillisa01,Sam Hilliard
+10007284,Active,13,SEA,25.0,IF,SS,Dylan,Moore,R,R,72,205,1992-08-02,Yorba Linda,CA,USA,,Central Florida,2019-03-20,6,Dylan Moore,mooredy01,Dylan Moore
+10007287,Active,12,PHI,21.0,IF,C,Garrett,Stubbs,L,R,70,170,1993-05-26,San Diego,CA,USA,,Southern California,2019-05-28,6,Garrett Stubbs,stubbga01,Garrett Stubbs
+10007308,Active,4,PIT,15.0,IF,SS,Oneil,Cruz,L,R,79,215,1998-10-04,Nizao,,Dominican Republic,,None,2021-10-02,4,Oneil Cruz,cruzon01,Oneil Cruz
+10007310,Active,35,WSH,20.0,IF,C,Keibert,Ruiz,S,R,72,238,1998-07-20,Valencia,,Venezuela,,None,2020-08-16,5,Keibert Ruiz,ruizke01,Keibert Ruiz
+10007322,Active,23,COL,71.0,IF,2B,Thairo,Estrada,R,R,70,185,1996-02-22,Bejuma,,Venezuela,,None,2019-04-21,6,Thairo Estrada,estrath01,Thairo Estrada
+10007359,Active,23,COL,52.0,IF,2B,Kyle,Farmer,R,R,72,205,1990-08-17,Atlanta,GA,USA,,Georgia,2017-07-30,8,Kyle Farmer,farmeky01,Kyle Farmer
+10007416,Active,33,SD,9.0,IF,1B,Jake,Cronenworth,L,R,72,187,1994-01-21,St. Clair,MI,USA,,Michigan,2020-07-26,5,Jake Cronenworth,croneja01,Jake Cronenworth
+10007421,Active,14,ARI,11.0,IF,C,Jose,Herrera,S,R,69,217,1997-02-24,San Carlos,,Venezuela,,None,2022-04-09,3,Jose Herrera,herrejo04,Jose Herrera
+10007465,Active,30,HOU,15.0,IF,3B,Isaac,Paredes,R,R,71,213,1999-02-18,Hermosillo,Sonora,Mexico,,None,2020-08-17,5,Isaac Paredes,paredis01,Isaac Paredes
+10007535,Active,11,TB,19.0,IF,C,Danny,Jansen,R,R,74,215,1995-04-15,Elmhurst,IL,USA,Appleton West (WI),None,2018-08-13,7,Danny Jansen,janseda01,Danny Jansen
+10007553,Active,2,CIN,35.0,IF,C,Jose,Trevino,R,R,70,215,1992-11-28,Corpus Christi,TX,USA,,Oral Roberts,2018-06-15,7,Jose Trevino,trevijo01,Jose Trevino
+10007554,Active,4,PIT,7.0,IF,2B,Isiah,Kiner-Falefa,R,R,71,190,1995-03-23,Honolulu,HI,USA,Mid-Pacific Institute (HI),None,2018-04-10,7,Isiah Kiner-Falefa,kineris01,Isiah Kiner-Falefa
+10007589,Non-Roster Invitee,18,NYM,,OF,RF,Edward,Olivares,R,R,74,190,1996-03-06,Caracas,,Venezuela,,None,2020-07-25,5,Edward Olivares,olivaed02,Edward Olivares
+10007612,Non-Roster Invitee,28,TEX,,IF,C,Chad,Wallach,R,R,74,246,1991-11-04,Yorba Linda,CA,USA,,Cal State Fullerton,2017-08-27,7,Chad Wallach,wallach01,Chad Wallach
+10007614,Active,33,SD,5.0,IF,3B,Eguy,Rosario,R,R,67,150,1999-08-25,Juan Baron,,Dominican Republic,,None,2022-08-26,3,Eguy Rosario,rosareg01,Eguy Rosario
+10007618,Non-Roster Invitee,30,HOU,,IF,C,Joe,Hudson,R,R,71,210,1991-05-21,Tampa,FL,USA,,Notre Dame,2018-09-08,3,Joe Hudson,hudsojo03,Joe Hudson
+10007641,Non-Roster Invitee,1,LAD,,IF,3B,David,Bote,R,R,71,205,1993-04-07,Longmont,CO,USA,,Neosho County CC (KS),2018-04-21,6,David Bote,boteda01,David Bote
+10007647,Active,19,BAL,31.0,OF,CF,Cedric,Mullins,L,L,69,175,1994-10-01,Greensboro,NC,USA,,Campbell,2018-08-10,7,Cedric Mullins,mullice01,Cedric Mullins
+10007675,Active,32,MIL,13.0,IF,C,Eric,Haase,R,R,70,198,1992-12-18,Westland,MI,USA,Divine Child (MI),None,2018-09-02,7,Eric Haase,haaseer01,Eric Haase
+10007686,Non-Roster Invitee,18,NYM,,IF,2B,Donovan,Walton,L,R,69,190,1994-05-25,Dallas,TX,USA,,Oklahoma State,2019-09-10,5,Donovan Walton,waltodo01,Donovan Walton
+10007727,Active,9,CHC,27.0,OF,RF,Seiya,Suzuki,R,R,71,182,1994-08-18,Arakawa,,Japan,,None,2022-04-07,3,Seiya Suzuki,suzukse01,Seiya Suzuki
+10007848,Non-Roster Invitee,2,CIN,,IF,C,Austin,Wynns,R,R,72,190,1990-12-10,San Diego,CA,USA,,Fresno State,2018-06-05,6,Austin Wynns,wynnsau01,Austin Wynns
+10007860,Active,4,PIT,65.0,OF,CF,Jack,Suwinski,L,L,74,215,1998-07-29,Chicago,IL,USA,Taft (IL),None,2022-04-26,3,Jack Suwinski,suwinja01,Jack Suwinski
+10007911,Active,10,CLE,8.0,OF,RF,Lane,Thomas,R,R,72,195,1995-08-23,Knoxville,TN,USA,Bearden (TN),None,2019-04-17,6,Lane Thomas,thomala02,Lane Thomas
+10007973,Active,21,LAA,2.0,IF,3B,Luis,Rengifo,S,R,70,195,1997-02-26,Naguanagua,,Venezuela,,None,2019-04-25,6,Luis Rengifo,rengilu01,Luis Rengifo
+10008086,Active,17,DET,39.0,IF,SS,Zach,McKinstry,L,R,72,180,1995-04-29,Toledo,OH,USA,,Central Michigan,2020-09-16,5,Zach McKinstry,mckinza01,Zach McKinstry
+10008146,Non-Roster Invitee,23,COL,,OF,RF,Nick,Martini,L,L,71,205,1990-06-27,Crystal Lake,IL,USA,,Kansas State,2018-06-06,5,Nick Martini,martini02,Nick Martini
+10008174,Non-Roster Invitee,30,HOU,,IF,3B,Zack,Short,R,R,70,180,1995-05-29,Kingston,NY,USA,,Sacred Heart (CT),2021-04-21,4,Zack Short,shortza01,Zack Short
+10008190,Non-Roster Invitee,3,TOR,,OF,CF,Myles,Straw,R,R,68,178,1994-10-17,Garden Grove,CA,USA,,St. Johns River JC (FL),2018-09-15,2,Myles Straw,strawmy01,Myles Straw
+10008199,Restricted List,11,TB,5.0,IF,SS,Wander,Franco,S,R,70,189,2001-03-01,Bani,,Dominican Republic,,None,2021-06-22,3,Wander Franco,francwa01,Wander Franco
+10008236,Non-Roster Invitee,20,MIN,,IF,1B,Mike,Ford,L,R,72,225,1992-07-04,Belle Mead,NJ,USA,,Princeton,2019-04-18,6,Mike Ford,fordmi01,Mike Ford
+10008292,Active,35,WSH,18.0,IF,1B,Juan,Yepez,R,R,72,235,1998-02-19,Caracas,,Venezuela,,None,2022-05-04,3,Juan Yepez,yepezju01,Juan Yepez
+10008325,Non-Roster Invitee,31,STL,27.0,IF,SS,Jose,Barrero,R,R,74,211,1998-04-05,Havana,,Cuba,,None,2020-08-27,4,Jose Barrero,garcijo02,Jose Barrero
+10008329,Active,20,MIN,23.0,IF,3B,Royce,Lewis,R,R,74,200,1999-06-05,Aliso Viejo,CA,USA,Junipero Serra (CA),None,2022-05-06,3,Royce Lewis,lewisro02,Royce Lewis
+10008331,Active,21,LAA,7.0,OF,RF,Jo,Adell,R,R,75,215,1999-04-08,Shelby,NC,USA,Ballard (KY),None,2020-08-04,5,Jo Adell,adelljo01,Jo Adell
+10008336,Active,28,TEX,21.0,IF,3B,Jake,Burger,R,R,74,230,1996-04-10,St. Louis,MO,USA,,Missouri State,2021-07-02,4,Jake Burger,burgeja01,Jake Burger
+10008337,Active,33,SD,12.0,IF,C,Luis,Campusano,R,R,71,232,1998-09-29,Augusta,GA,USA,Cross Creek (GA),None,2020-09-04,5,Luis Campusano,campulu01,Luis Campusano
+10008350,Active,2,CIN,17.0,OF,CF,Stuart,Fairchild,R,R,72,205,1996-03-17,Seattle,WA,USA,,Wake Forest,2021-07-06,4,Stuart Fairchild,faircst01,Stuart Fairchild
+10008351,Active,10,CLE,2.0,OF,CF,Tyler,Freeman,R,R,72,190,1999-05-21,Rancho Cucamonga,CA,USA,Etiwanda (CA),None,2022-08-03,3,Tyler Freeman,freemty01,Tyler Freeman
+10008358,Non-Roster Invitee,23,COL,,IF,2B,Keston,Hiura,R,R,71,208,1996-08-02,Valencia,CA,USA,,UC Irvine,2019-05-14,5,Keston Hiura,hiurake01,Keston Hiura
+10008374,Active,5,KC,1.0,OF,LF,MJ,Melendez,L,R,73,190,1998-11-29,Daytona Beach,FL,USA,Westminster Christian (FL),None,2022-05-03,3,MJ Melendez,melenmj01,MJ Melendez
+10008378,Active,35,WSH,15.0,IF,C,Riley,Adams,R,R,76,263,1996-06-26,Encinitas,CA,USA,,San Diego,2021-06-08,4,Riley Adams,adamsri03,Riley Adams
+10008379,Active,26,ATL,60.0,IF,SS,Nick,Allen,R,R,68,166,1998-10-08,San Diego,CA,USA,Parker (CA),None,2022-04-19,3,Nick Allen,allenni02,Nick Allen
+10008388,Active,3,TOR,22.0,IF,3B,Ernie,Clement,R,R,72,170,1996-03-22,Rochester,NY,USA,,Virginia,2021-06-13,4,Ernie Clement,clemeer01,Ernie Clement
+10008392,Active,4,PIT,55.0,IF,C,Jason,Delay,R,R,71,190,1995-03-07,Plano,TX,USA,,Vanderbilt,2022-06-14,3,Jason Delay,delayja01,Jason Delay
+10008414,Non-Roster Invitee,16,CHW,,OF,RF,Cal,Mitchell,L,L,72,220,1999-03-08,San Diego,CA,USA,Rancho Bernardo (CA),None,2022-05-24,2,Cal Mitchell,mitchca01,Cal Mitchell
+10008422,Active,5,KC,32.0,IF,1B,Nick,Pratto,L,L,73,225,1998-10-06,Huntington Beach,CA,USA,Huntington Beach (CA),None,2022-07-14,3,Nick Pratto,prattni01,Nick Pratto
+10008423,Active,15,SF,17.0,OF,CF,Heliot,Ramos,R,R,71,188,1999-09-07,Humacao,,Puerto Rico,Leadership Christian Academy (Puerto Rico),None,2022-04-10,3,Heliot Ramos,ramoshe02,Heliot Ramos
+10008431,Active,24,ATH,25.0,DH,DH,Brent,Rooker,R,R,75,225,1994-11-01,Germantown,TN,USA,,Mississippi State,2020-09-04,5,Brent Rooker,rookebr01,Brent Rooker
+10008438,Active,14,ARI,26.0,OF,LF,Pavin,Smith,L,L,74,208,1996-02-06,Jupiter,FL,USA,,Virginia,2020-09-12,5,Pavin Smith,smithpa04,Pavin Smith
+10008455,Active,3,TOR,5.0,OF,LF,Daulton,Varsho,L,R,68,207,1996-07-02,Marshfield,WI,USA,,Wisconsin-Milwaukee,2020-07-30,5,Daulton Varsho,varshda01,Daulton Varsho
+10008456,Active,18,NYM,27.0,IF,3B,Mark,Vientos,R,R,76,185,1999-12-11,Pembroke Pines,FL,USA,American Heritage (FL),None,2022-09-11,3,Mark Vientos,vientma01,Mark Vientos
+10008457,Non-Roster Invitee,31,STL,70.0,OF,RF,Ryan,Vilade,R,R,74,226,1999-02-18,Grapevine,TX,USA,Stillwater (OK),None,2021-09-18,2,Ryan Vilade,viladry01,Ryan Vilade
+10008458,Active,11,TB,6.0,IF,SS,Taylor,Walls,S,R,70,185,1996-07-10,Cordele,GA,USA,,Florida State,2021-05-22,4,Taylor Walls,wallsta01,Taylor Walls
+10008460,Active,5,KC,8.0,OF,RF,Drew,Waters,S,R,73,185,1998-12-30,Atlanta,GA,USA,Etowah (GA),None,2022-08-22,4,Drew Waters,waterdr01,Drew Waters
+10008463,Active,25,BOS,12.0,IF,C,Connor,Wong,R,R,73,190,1996-05-19,Houston,TX,USA,,Houston,2021-06-22,4,Connor Wong,wongco01,Connor Wong
+10008467,Active,12,PHI,19.0,IF,2B,Buddy,Kennedy,R,R,70,190,1998-10-05,Millville,NJ,USA,Millville (NJ),None,2022-06-17,3,Buddy Kennedy,kennebu01,Buddy Kennedy
+10008468,Active,32,MIL,5.0,OF,CF,Garrett,Mitchell,L,R,75,224,1998-09-04,Orange,CA,USA,,UCLA,2022-08-27,3,Garrett Mitchell,mitchga01,Garrett Mitchell
+10008481,Non-Roster Invitee,12,PHI,,IF,C,Payton,Henry,R,R,74,229,1997-06-24,American Fork,UT,USA,Pleasant Grove (UT),None,2021-09-17,2,Payton Henry,henrypa01,Payton Henry
+10008493,Active,16,CHW,50.0,IF,3B,Lenyn,Sosa,R,R,72,210,2000-01-25,Puerto Ordaz,,Venezuela,,None,2022-06-23,3,Lenyn Sosa,sosale01,Lenyn Sosa
+10008529,Non-Roster Invitee,35,WSH,,IF,C,Andrew,Knizner,R,R,72,225,1995-02-03,Glen Allen,VA,USA,,North Carolina State,2019-06-02,6,Andrew Knizner,kniznan01,Andrew Knizner
+10008548,Active,24,ATH,1.0,OF,CF,Esteury,Ruiz,R,R,72,169,1999-02-15,Azua,,Dominican Republic,,None,2022-07-12,3,Esteury Ruiz,ruizes01,Esteury Ruiz
+10008563,Active,15,SF,,IF,C,Sam,Huff,R,R,76,240,1998-01-14,Phoenix,AZ,USA,Arcadia (AZ),None,2020-09-11,4,Sam Huff,huffsa01,Sam Huff
+10008579,Active,32,MIL,24.0,IF,C,William,Contreras,R,R,71,212,1997-12-24,Puerto Cabello,,Venezuela,,None,2020-07-24,5,William Contreras,contrwi02,William Contreras
+10008588,Active,32,MIL,28.0,OF,RF,Brewer,Hicklen,R,R,73,220,1996-02-09,Huntsville,AL,USA,,Alabama-Birmingham,2022-05-26,2,Brewer Hicklen,hicklbr01,Brewer Hicklen
+10008592,Non-Roster Invitee,4,PIT,,IF,1B,Darick,Hall,L,R,76,232,1995-07-25,Hereford,AZ,USA,,Dallas Baptist,2022-06-29,2,Darick Hall,hallda02,Darick Hall
+10008618,Active,19,BAL,26.0,IF,3B,Emmanuel,Rivera,R,R,74,225,1996-06-29,Mayaguez,,Puerto Rico,,Interamerican University of Puerto Rico,2021-06-28,4,Emmanuel Rivera,riverem01,Emmanuel Rivera
+10008627,Non-Roster Invitee,4,PIT,,OF,RF,Bryce,Johnson,S,R,73,195,1995-10-27,Cypress,TX,USA,,Sam Houston State,2022-08-03,3,Bryce Johnson,johnsbr03,Bryce Johnson
+10008634,Active,23,COL,12.0,OF,RF,Sean,Bouchard,R,R,75,215,1996-05-16,San Diego,CA,USA,,UCLA,2022-06-19,3,Sean Bouchard,bouchse01,Sean Bouchard
+10008667,Active,1,LAD,17.0,DH,DH,Shohei,Ohtani,L,R,76,210,1994-07-05,Oshu,,Japan,Hanamaki Higashi (Japan),None,2018-03-29,7,Shohei Ohtani,ohtansh01,Shohei Ohtani
+10008683,Active,5,KC,44.0,OF,LF,Dairon,Blanco,R,R,71,200,1993-04-26,Florida,,Cuba,,None,2022-05-20,3,Dairon Blanco,blancda02,Dairon Blanco
+10008700,Active,29,NYY,91.0,IF,3B,Oswald,Peraza,R,R,71,200,2000-06-15,Barquisimeto,,Venezuela,,None,2022-09-02,3,Oswald Peraza,perazos02,Oswald Peraza
+10008719,Active,26,ATL,45.0,IF,C,Chadwick,Tromp,R,R,68,221,1995-03-21,Oranjestad,,Aruba,,None,2020-07-29,5,Chadwick Tromp,trompch01,Chadwick Tromp
+10008721,Non-Roster Invitee,25,BOS,,IF,C,Seby,Zavala,R,R,71,205,1993-08-28,Fort Hood,TX,USA,,San Diego State,2019-05-25,5,Seby Zavala,zavalse01,Seby Zavala
+10008735,Non-Roster Invitee,12,PHI,,IF,SS,Rodolfo,Castro,S,R,72,205,1999-05-21,Los Llanos,,Dominican Republic,,None,2021-04-21,3,Rodolfo Castro,castrro01,Rodolfo Castro
+10008736,Non-Roster Invitee,32,MIL,,OF,CF,Jared,Oliva,R,R,74,200,1995-11-27,Santa Clarita,CA,USA,,Arizona,2020-09-21,2,Jared Oliva,olivaja01,Jared Oliva
+10008749,Active,1,LAD,25.0,IF,SS,Tommy,Edman,S,R,70,193,1995-05-09,Pontiac,MI,USA,,Stanford,2019-06-08,6,Tommy Edman,edmanto01,Tommy Edman
+10008798,Active,26,ATL,36.0,OF,LF,Eli,White,R,R,74,195,1994-06-26,Greenville,SC,USA,,Clemson,2020-09-01,5,Eli White,whiteel04,Eli White
+10008834,Active,2,CIN,4.0,IF,3B,Santiago,Espinal,R,R,70,185,1994-11-13,Santiago,,Dominican Republic,,Miami Dade CC (FL),2020-07-25,5,Santiago Espinal,espinsa01,Santiago Espinal
+10008903,Active,21,LAA,,IF,C,Chuckie,Robinson,R,R,71,215,1994-12-14,Danville,IL,USA,,Southern Mississippi,2022-08-24,2,Chuckie Robinson,robinch03,Chuckie Robinson
+10008989,Active,35,WSH,33.0,IF,1B,Nathaniel,Lowe,L,R,76,220,1995-07-07,Norfolk,VA,USA,,Mississippi State,2019-04-29,6,Nathaniel Lowe,lowena01,Nathaniel Lowe
+10009007,Non-Roster Invitee,28,TEX,,IF,2B,Alan,Trejo,R,R,74,205,1996-05-30,Los Angeles,CA,USA,,San Diego State,2021-04-10,4,Alan Trejo,trejoal01,Alan Trejo
+10009010,Active,30,HOU,20.0,OF,LF,Chas,McCormick,R,L,72,208,1995-04-19,West Chester,PA,USA,,Millersville (PA),2021-04-01,4,Chas McCormick,mccorch01,Chas McCormick
+10009030,Non-Roster Invitee,5,KC,,IF,C,Brian,O'Keefe,R,R,73,210,1993-07-15,Albany,NY,USA,,St. Joseph's (PA),2022-10-01,2,Brian O'Keefe,okeefbr01,Brian O'Keefe
+10009041,Active,13,SEA,20.0,OF,LF,Luke,Raley,L,R,76,235,1994-09-19,Hinckley,OH,USA,,Lake Erie (OH),2021-04-09,4,Luke Raley,raleylu01,Luke Raley
+10009088,Non-Roster Invitee,17,DET,,OF,RF,Bligh,Madris,L,R,72,208,1996-02-29,Las Vegas,NV,USA,,Colorado Mesa,2022-06-20,3,Bligh Madris,madribl01,Bligh Madris
+10009104,Active,16,CHW,10.0,IF,3B,Josh,Rojas,L,R,73,207,1994-06-30,Glendale,AZ,USA,,Hawaii,2019-08-12,6,Josh Rojas,rojasjo01,Josh Rojas
+10009116,Active,30,HOU,6.0,OF,CF,Jake,Meyers,R,L,72,200,1996-06-18,Omaha,NE,USA,,Nebraska,2021-08-01,4,Jake Meyers,meyerja02,Jake Meyers
+10009155,Active,26,ATL,14.0,OF,LF,Bryan,De La Cruz,R,R,74,175,1996-12-16,Santo Domingo Este,,Dominican Republic,,None,2021-04-11,4,Bryan De La Cruz,delacbr01,Bryan De La Cruz
+10009164,Active,11,TB,62.0,IF,1B,Jonathan,Aranda,L,R,72,210,1998-05-23,Tijuana,Baja California,Mexico,,None,2022-06-24,3,Jonathan Aranda,arandjo01,Jonathan Aranda
+10009185,Active,29,NYY,95.0,IF,3B,Oswaldo,Cabrera,S,R,71,200,1999-03-01,Guarenas,,Venezuela,,None,2022-08-17,3,Oswaldo Cabrera,cabreos01,Oswaldo Cabrera
+10009225,Active,4,PIT,3.0,OF,CF,Ji Hwan,Bae,L,R,71,185,1999-07-26,Daegu,,South Korea,,None,2022-09-23,3,Ji Hwan Bae,baeji01,Ji Hwan Bae
+10009268,Active,4,PIT,14.0,IF,C,Joey,Bart,R,R,74,238,1996-12-15,Buford,GA,USA,,Georgia Tech,2020-08-20,5,Joey Bart,bartjo01,Joey Bart
+10009271,Active,12,PHI,28.0,IF,3B,Alec,Bohm,R,R,77,218,1996-08-03,Omaha,NE,USA,,Wichita State,2020-08-13,5,Alec Bohm,bohmal01,Alec Bohm
+10009275,Active,25,BOS,36.0,IF,1B,Triston,Casas,L,R,77,244,2000-01-15,Pembroke Pines,FL,USA,American Heritage (FL),None,2022-09-04,3,Triston Casas,casastr01,Triston Casas
+10009287,Active,31,STL,16.0,IF,2B,Nolan,Gorman,L,R,73,225,2000-05-10,Phoenix,AZ,USA,Sandra Day O'Connor (AZ),None,2022-05-20,3,Nolan Gorman,gormano01,Nolan Gorman
+10009296,Active,9,CHC,2.0,IF,2B,Nico,Hoerner,R,R,73,200,1997-05-13,Oakland,CA,USA,,Stanford,2019-09-09,6,Nico Hoerner,hoernni01,Nico Hoerner
+10009298,Active,5,KC,6.0,IF,2B,Jonathan,India,R,R,72,200,1996-12-15,Ft. Lauderdale,FL,USA,,Florida,2021-04-01,4,Jonathan India,indiajo01,Jonathan India
+10009300,Active,20,MIN,27.0,IF,C,Ryan,Jeffers,R,R,76,235,1997-06-03,Raleigh,NC,USA,,UNC Wilmington,2020-08-20,5,Ryan Jeffers,jeffery01,Ryan Jeffers
+10009303,Active,26,ATL,24.0,OF,LF,Jarred,Kelenic,L,L,73,206,1999-07-16,Waukesha,WI,USA,Waukesha West (WI),None,2021-05-13,4,Jarred Kelenic,kelenja01,Jarred Kelenic
+10009306,Active,20,MIN,9.0,OF,LF,Trevor,Larnach,L,R,76,223,1997-02-26,Walnut Creek,CA,USA,,Oregon State,2021-05-08,4,Trevor Larnach,larnatr01,Trevor Larnach
+10009316,Active,12,PHI,2.0,IF,1B,Kody,Clemens,L,R,73,200,1996-05-15,Houston,TX,USA,,Texas,2022-05-31,3,Kody Clemens,clemeko01,Kody Clemens
+10009327,Active,22,MIA,4.0,IF,C,Nick,Fortes,R,R,71,198,1996-11-11,DeLand,FL,USA,,Mississippi,2021-09-18,4,Nick Fortes,forteni01,Nick Fortes
+10009338,Active,5,KC,28.0,OF,CF,Kyle,Isbel,L,R,71,190,1997-03-03,Fontana,CA,USA,,Nevada-Las Vegas,2021-04-01,4,Kyle Isbel,isbelky01,Kyle Isbel
+10009345,Active,14,ARI,31.0,OF,CF,Jake,McCarthy,L,L,74,215,1997-07-30,Scranton,PA,USA,,Virginia,2021-08-27,4,Jake McCarthy,mccarja02,Jake McCarthy
+10009350,Non-Roster Invitee,23,COL,,IF,1B,Owen,Miller,R,R,71,197,1996-11-15,Mequon,WI,USA,,Illinois State,2021-05-23,4,Owen Miller,milleow01,Owen Miller
+10009353,Active,11,TB,1.0,IF,2B,Richie,Palacios,L,R,70,180,1997-05-16,Brooklyn,NY,USA,,Towson,2022-04-25,3,Richie Palacios,palacri01,Richie Palacios
+10009359,Active,13,SEA,29.0,IF,C,Cal,Raleigh,S,R,75,235,1996-11-26,Cullowhee,NC,USA,,Florida State,2021-07-11,4,Cal Raleigh,raleica01,Cal Raleigh
+10009378,Active,31,STL,22.0,OF,CF,Michael,Siani,L,L,73,195,1999-07-16,Glenside,PA,USA,William Penn (PA),None,2022-09-22,3,Michael Siani,sianimi01,Michael Siani
+10009383,Active,14,ARI,5.0,OF,CF,Alek,Thomas,L,L,71,175,2000-04-28,Chicago,IL,USA,Mount Carmel (IL),None,2022-05-08,3,Alek Thomas,thomaal01,Alek Thomas
+10009441,Active,18,NYM,4.0,IF,C,Francisco,Alvarez,R,R,70,233,2001-11-19,Guatire,,Venezuela,,None,2022-09-30,3,Francisco Alvarez,alvarfr01,Francisco Alvarez
+10009459,Active,15,SF,29.0,OF,CF,Luis,Matos,R,R,71,160,2002-01-28,Valera,,Venezuela,,None,2023-06-14,2,Luis Matos,matoslu01,Luis Matos
+10009505,Active,14,ARI,2.0,IF,SS,Geraldo,Perdomo,S,R,74,203,1999-10-22,Santo Domingo,,Dominican Republic,,None,2021-04-03,4,Geraldo Perdomo,perdoge01,Geraldo Perdomo
+10009517,Active,25,BOS,16.0,OF,CF,Jarren,Duran,L,R,74,205,1996-09-05,Corona,CA,USA,,Long Beach State,2021-07-17,4,Jarren Duran,duranja01,Jarren Duran
+10009532,Active,25,BOS,23.0,IF,2B,Romy,Gonzalez,R,R,72,215,1996-09-06,Miami,FL,USA,,Miami (FL),2021-09-03,4,Romy Gonzalez,gonzaro01,Romy Gonzalez
+10009558,Active,22,MIA,61.0,IF,2B,Otto,Lopez,R,R,70,185,1998-10-01,Santo Domingo,,Dominican Republic,,None,2021-08-17,3,Otto Lopez,lopezot01,Otto Lopez
+10009566,Active,12,PHI,47.0,OF,CF,Cal,Stevenson,L,L,69,175,1996-09-12,Fremont,CA,USA,,Arizona,2022-08-10,3,Cal Stevenson,steveca01,Cal Stevenson
+10009628,Active,3,TOR,30.0,IF,C,Alejandro,Kirk,R,R,68,245,1998-11-06,Tijuana,Baja California,Mexico,,None,2020-09-12,5,Alejandro Kirk,kirkal01,Alejandro Kirk
+10009629,Active,14,ARI,14.0,IF,C,Gabriel,Moreno,R,R,71,195,2000-02-14,Barquisimeto,,Venezuela,,None,2022-06-11,3,Gabriel Moreno,morenga01,Gabriel Moreno
+10009630,Active,21,LAA,14.0,IF,C,Logan,O'Hoppe,R,R,74,185,2000-02-09,West Islip,NY,USA,St. John the Baptist (NY),None,2022-09-28,3,Logan O'Hoppe,ohopplo01,Logan O'Hoppe
+10009757,Active,13,SEA,,IF,SS,Miles,Mastrobuoni,L,R,70,185,1995-10-31,Livermore,CA,USA,,Nevada-Reno,2022-09-22,3,Miles Mastrobuoni,mastrmi01,Miles Mastrobuoni
+10009774,Active,18,NYM,,IF,1B,Jared,Young,L,R,73,200,1995-07-09,Prince George,BC,Canada,,Old Dominion,2022-09-16,2,Jared Young,youngja02,Jared Young
+10009862,Non-Roster Invitee,16,CHW,,IF,3B,Nick,Maton,L,R,73,178,1997-02-18,Chatham,IL,USA,Glenwood (IL),None,2021-04-19,4,Nick Maton,matonni01,Nick Maton
+10009865,Active,30,HOU,,OF,LF,Cooper,Hummel,S,R,69,198,1994-11-28,Portland,OR,USA,,Portland,2022-04-07,3,Cooper Hummel,hummeco01,Cooper Hummel
+10009878,Active,17,DET,8.0,OF,CF,Matt,Vierling,R,R,75,205,1996-09-16,St. Louis,MO,USA,,Notre Dame,2021-06-19,4,Matt Vierling,vierlma01,Matt Vierling
+10009917,Non-Roster Invitee,24,ATH,29.0,IF,2B,Alejo,Lopez,S,R,70,170,1996-05-05,Mexico City,Federal District,Mexico,Greenway (AZ),None,2021-06-28,3,Alejo Lopez,lopezal03,Alejo Lopez
+10010014,Non-Roster Invitee,25,BOS,,IF,C,Mark,Kolozsvary,R,R,68,180,1995-09-04,Eustis,FL,USA,,Florida,2022-04-20,1,Mark Kolozsvary,kolozma01,Mark Kolozsvary
+10010038,Active,10,CLE,23.0,IF,C,Bo,Naylor,L,R,72,205,2000-02-21,Mississauga,ON,Canada,Saint Joan of Arc (Canada),None,2022-10-01,3,Bo Naylor,naylobo01,Bo Naylor
+10010045,Active,1,LAD,33.0,OF,CF,James,Outman,L,R,74,215,1997-05-14,Redwood City,CA,USA,,Sacramento State,2022-07-31,3,James Outman,outmaja01,James Outman
+10010048,Active,31,STL,33.0,OF,LF,Brendan,Donovan,L,R,73,210,1997-01-16,Wurzberg,,Germany,,South Alabama,2022-04-25,3,Brendan Donovan,donovbr01,Brendan Donovan
+10010130,Active,5,KC,34.0,IF,C,Freddy,Fermin,R,R,69,200,1995-05-16,Puerto Ordaz,,Venezuela,,None,2022-07-15,3,Freddy Fermin,fermifr01,Freddy Fermin
+10010180,Active,10,CLE,38.0,OF,LF,Steven,Kwan,L,L,69,170,1997-09-05,Los Gatos,CA,USA,,Oregon State,2022-04-07,3,Steven Kwan,kwanst01,Steven Kwan
+10010211,Active,32,MIL,18.0,IF,3B,Vinny,Capra,R,R,68,180,1996-07-07,Melbourne,FL,USA,,Richmond,2022-05-01,3,Vinny Capra,capravi01,Vinny Capra
+10010320,Active,15,SF,59.0,OF,RF,Jerar,Encarnacion,R,R,76,250,1997-10-22,Bayaguana,,Dominican Republic,,None,2022-06-19,2,Jerar Encarnacion,encarje01,Jerar Encarnacion
+10010331,Active,19,BAL,35.0,IF,C,Adley,Rutschman,S,R,74,230,1998-02-06,Portland,OR,USA,,Oregon State,2022-05-21,3,Adley Rutschman,rutscad01,Adley Rutschman
+10010333,Active,35,WSH,5.0,IF,SS,CJ,Abrams,L,R,74,191,2000-10-03,Alpharetta,GA,USA,Blessed Trinity (GA),None,2022-04-08,3,CJ Abrams,abramcj01,CJ Abrams
+10010334,Active,18,NYM,22.0,IF,3B,Brett,Baty,L,R,74,210,1999-11-13,Round Rock,TX,USA,Lake Travis (TX),None,2022-08-17,3,Brett Baty,batybr01,Brett Baty
+10010337,Active,24,ATH,33.0,OF,CF,JJ,Bleday,L,L,73,205,1997-11-10,Danville,PA,USA,,Vanderbilt,2022-07-23,3,JJ Bleday,bledajj01,JJ Bleday
+10010342,Active,14,ARI,7.0,OF,CF,Corbin,Carroll,L,L,70,165,2000-08-21,Seattle,WA,USA,Lakeside (WA),None,2022-08-29,3,Corbin Carroll,carroco02,Corbin Carroll
+10010353,Active,17,DET,31.0,OF,LF,Riley,Greene,L,L,75,200,2000-09-28,Orlando,FL,USA,Hagerty (FL),None,2022-06-18,3,Riley Greene,greenri02,Riley Greene
+10010354,Active,19,BAL,2.0,IF,SS,Gunnar,Henderson,L,R,75,220,2001-06-29,Montgomery,AL,USA,Morgan (AL),None,2022-08-31,3,Gunnar Henderson,hendegu01,Gunnar Henderson
+10010361,Active,23,COL,2.0,OF,RF,Greg,Jones,S,R,72,175,1998-03-07,Cary,NC,USA,,UNC-Wilmington,2024-06-06,1,Greg Jones,jonesgr01,Greg Jones
+10010362,Active,28,TEX,6.0,IF,3B,Josh,Jung,R,R,74,214,1998-02-12,San Antonio,TX,USA,,Texas Tech,2022-09-09,3,Josh Jung,jungjo01,Josh Jung
+10010367,Active,24,ATH,23.0,IF,C,Shea,Langeliers,R,R,72,205,1997-11-18,Portland,OR,USA,,Baylor,2022-08-16,3,Shea Langeliers,langesh01,Shea Langeliers
+10010368,Active,16,CHW,26.0,IF,C,Korey,Lee,R,R,74,220,1998-07-25,Escondido,CA,USA,,California,2022-07-01,3,Korey Lee,leeko01,Korey Lee
+10010400,Active,17,DET,32.0,IF,SS,Ryan,Kreidler,R,R,76,208,1997-11-12,Davis,CA,USA,,UCLA,2022-09-02,3,Ryan Kreidler,kreidry01,Ryan Kreidler
+10010411,Active,5,KC,19.0,IF,2B,Michael,Massey,L,R,72,195,1998-03-22,Palos Park,IL,USA,,Illinois,2022-07-15,3,Michael Massey,massemi02,Michael Massey
+10010443,Active,28,TEX,8.0,IF,3B,Josh,Smith,L,R,70,172,1997-08-07,Baton Rouge,LA,USA,,Louisiana State,2022-05-30,3,Josh Smith,smithjo07,Josh Smith
+10010443,Active,28,TEX,8.0,IF,3B,Josh,Smith,L,R,70,172,1997-08-07,Baton Rouge,LA,USA,,Louisiana State,2022-05-30,3,Josh Smith,smithjo08,Josh Smith
+10010443,Active,28,TEX,8.0,IF,3B,Josh,Smith,L,R,70,172,1997-08-07,Baton Rouge,LA,USA,,Louisiana State,2022-05-30,3,Josh Smith,smithjo09,Josh Smith
+10010446,Active,2,CIN,7.0,OF,LF,Spencer,Steer,R,R,71,185,1997-12-07,Long Beach,CA,USA,,Oregon,2022-09-02,3,Spencer Steer,steersp01,Spencer Steer
+10010448,Active,12,PHI,5.0,IF,2B,Bryson,Stott,L,R,75,200,1997-10-06,Las Vegas,NV,USA,,Nevada-Las Vegas,2022-04-08,3,Bryson Stott,stottbr01,Bryson Stott
+10010450,Active,22,MIA,28.0,OF,LF,Kyle,Stowers,L,L,74,215,1998-01-02,El Cajon,CA,USA,,Stanford,2022-06-13,3,Kyle Stowers,stoweky01,Kyle Stowers
+10010461,Active,23,COL,4.0,IF,1B,Michael,Toglia,S,L,77,226,1998-08-16,Phoenix,AZ,USA,,UCLA,2022-08-30,3,Michael Toglia,toglimi01,Michael Toglia
+10010464,Active,16,CHW,25.0,IF,1B,Andrew,Vaughn,R,R,72,215,1998-04-03,Santa Rosa,CA,USA,,California,2021-04-02,4,Andrew Vaughn,vaughan01,Andrew Vaughn
+10010467,Active,20,MIN,38.0,OF,RF,Matt,Wallner,L,R,76,220,1997-12-12,Forest Lake,MN,USA,,Southern Mississippi,2022-09-17,3,Matt Wallner,wallnma01,Matt Wallner
+10010534,Active,4,PIT,31.0,IF,SS,Liover,Peguero,R,R,73,220,2000-12-31,Higuey,,Dominican Republic,,None,2022-06-18,3,Liover Peguero,pegueli01,Liover Peguero
+10010737,Active,25,BOS,5.0,IF,2B,Vaughn,Grissom,R,R,74,210,2001-01-05,Orlando,FL,USA,Hagerty (FL),None,2022-08-10,3,Vaughn Grissom,grissva01,Vaughn Grissom
+10010810,Active,11,TB,24.0,IF,3B,Christopher,Morel,R,R,71,145,1999-06-24,Santiago,,Dominican Republic,,None,2022-05-17,3,Christopher Morel,morelch01,Christopher Morel
+10010866,Active,5,KC,9.0,IF,1B,Vinnie,Pasquantino,L,L,76,245,1997-10-10,Richmond,VA,USA,,Old Dominion,2022-06-28,3,Vinnie Pasquantino,pasquvi01,Vinnie Pasquantino
+10010953,Active,16,CHW,20.0,IF,3B,Miguel,Vargas,R,R,74,205,1999-11-17,La Habana,,Cuba,,None,2022-08-03,3,Miguel Vargas,vargami01,Miguel Vargas
+10010954,Active,17,DET,30.0,OF,RF,Kerry,Carpenter,L,R,74,220,1997-09-02,Eustis,FL,USA,,Virginia Tech,2022-08-10,3,Kerry Carpenter,carpeke01,Kerry Carpenter
+10011033,Non-Roster Invitee,3,TOR,,IF,2B,Michael,Stefanic,R,R,69,180,1996-02-24,Boise,ID,USA,,Westmont (CA),2022-07-03,3,Michael Stefanic,stefami01,Michael Stefanic
+10011056,Non-Roster Invitee,25,BOS,,OF,RF,Nate,Eaton,R,R,71,200,1996-12-22,Chester,VA,USA,,Virginia Military Institute,2022-07-14,2,Nate Eaton,eatonna01,Nate Eaton
+10011104,Active,28,TEX,20.0,IF,3B,Ezequiel,Duran,R,R,71,185,1999-05-22,San Juan de la Maguana,,Dominican Republic,,None,2022-06-04,3,Ezequiel Duran,duranez01,Ezequiel Duran
+10011186,Active,15,SF,32.0,IF,2B,David,Villar,R,R,73,215,1997-01-27,Atlanta,GA,USA,,South Florida,2022-07-04,3,David Villar,villada01,David Villar
+10011466,Active,31,STL,41.0,OF,RF,Alec,Burleson,L,L,74,225,1998-11-25,Charlotte,NC,USA,,East Carolina,2022-09-08,3,Alec Burleson,burleal01,Alec Burleson
+10011494,Active,17,DET,20.0,IF,1B,Spencer,Torkelson,R,R,72,220,1999-08-26,Petaluma,CA,USA,,Arizona State,2022-04-08,3,Spencer Torkelson,torkesp01,Spencer Torkelson
+10012277,Active,31,STL,21.0,OF,RF,Lars,Nootbaar,L,R,75,205,1997-09-08,El Segundo,CA,USA,,Southern California,2021-06-22,4,Lars Nootbaar,nootbla01,Lars Nootbaar
+10012310,Active,30,HOU,21.0,IF,C,Yainer,Diaz,R,R,72,195,1998-09-21,Azua,,Dominican Republic,,None,2022-09-02,3,Yainer Diaz,diazya02,Yainer Diaz
+10012442,Active,10,CLE,17.0,OF,RF,Will,Brennan,L,L,72,200,1998-02-02,Colorado Springs,CO,USA,,Kansas State,2022-09-21,3,Will Brennan,brennwi02,Will Brennan
+10013282,Active,22,MIA,41.0,IF,1B,Jonah,Bride,R,R,70,200,1995-12-27,Owasso,OK,USA,,South Carolina,2022-06-14,3,Jonah Bride,bridejo01,Jonah Bride
+10013284,Active,23,COL,14.0,IF,SS,Ezequiel,Tovar,R,R,72,162,2001-08-01,Maracay,,Venezuela,,None,2022-09-23,3,Ezequiel Tovar,tovarez01,Ezequiel Tovar
+10013287,Active,5,KC,11.0,IF,3B,Maikel,Garcia,R,R,72,180,2000-03-03,La Sabana,,Venezuela,,None,2022-07-15,3,Maikel Garcia,garcima01,Maikel Garcia
+10014432,Active,10,CLE,74.0,IF,SS,Juan,Brito,S,R,72,202,2001-09-24,Santa Domingo,,Dominican Republic,,None,,0,Juan Brito,britoju01,Juan Brito
+10015714,Active,24,ATH,5.0,IF,SS,Jacob,Wilson,R,R,74,190,2002-03-30,Los Angeles,CA,USA,,Grand Canyon,2024-07-19,1,Jacob Wilson,wilsoja03,Jacob Wilson
